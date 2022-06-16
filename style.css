@@ -1,0 +1,23 @@
+body {
+    height: 1000px;
+    background: linear-gradient(to bottom right, #8FBC8F, #556B2F);
+    margin: center;
+    font-family: Arial, Helvetica, sans-serif
+
+}
+
+.bigtitle {
+    text-align: center;
+
+}
+
+.container {
+    margin: 8rem;
+    border-radius: 1rem;
+    border:10px solid black;
+    padding: 1px 1px 1px 10px;
+    text-align: center;
+    width: 25%;
+    height: auto;
+
+}
